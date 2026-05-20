@@ -1,0 +1,19 @@
+# Базовые библиотеки / Core
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Глубокое обучение / Deep learning
+torch
+
+# NLP, RAG, временные ряды (ДЗ 4, 8) / NLP, RAG, time series (HW 4, 8)
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+gluonts
+
+# Запуск notebook'ов / Notebook environment
+jupyter
